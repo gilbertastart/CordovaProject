@@ -1,0 +1,4 @@
+#Wed Oct 24 15:27:41 SGT 2018
+base.0=C\:\\Users\\Gilberto\\UPOU\\CordovaProject\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

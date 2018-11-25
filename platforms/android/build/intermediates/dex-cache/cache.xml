@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gilberto\UPOU\CordovaProject\platforms\android\app\build\intermediates\transforms\desugar\release\0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="28.0.3"
+        sha1="fdadb7b61bb98e4ec37ec5f5643bb6b8f78b5188">
+        <dex dex="C:\Users\Gilberto\UPOU\CordovaProject\platforms\android\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gilberto\UPOU\CordovaProject\platforms\android\app\build\intermediates\transforms\desugar\release\4.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="28.0.3"
+        sha1="961642af7e57bc18ae57ae1d7aafca513633fe9e">
+        <dex dex="C:\Users\Gilberto\UPOU\CordovaProject\platforms\android\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gilberto\UPOU\CordovaProject\platforms\android\app\build\intermediates\transforms\desugar\release\3.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="28.0.3"
+        sha1="d4b7ba177ae64e26c19e00a0a01a5b189945058b">
+        <dex dex="C:\Users\Gilberto\UPOU\CordovaProject\platforms\android\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gilberto\UPOU\CordovaProject\platforms\android\app\build\intermediates\transforms\desugar\release\2.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c50a4fe886f88838db5a99a45d64c6d0233e1744">
+        <dex dex="C:\Users\Gilberto\UPOU\CordovaProject\platforms\android\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+
+</items>
